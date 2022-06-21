@@ -1,4 +1,4 @@
-# Airline-Booking-System
+# Airline-Reservation-System
 
 Here I have created a booking system for airline tickets. 
 
