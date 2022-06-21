@@ -1,6 +1,6 @@
 # Airline-Booking-System
 
-Here I have created a booking system for airline tickets based on the given specs. 
+Here I have created a booking system for airline tickets. 
 
 ## Installing
 1. Start MySQL server 
